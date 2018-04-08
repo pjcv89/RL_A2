@@ -1,0 +1,2 @@
+Solution files are inside "assignment" folder, contained in the rl_roadFigher folder.
+Among those files, the script RUNME.m contains examples of calls of each solution with each available option.
